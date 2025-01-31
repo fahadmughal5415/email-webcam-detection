@@ -8,7 +8,6 @@ time.sleep(1)
 first_frame = None
 status_list = []
 count = 1
-all_images = []
 while True:
     status = 0
     check, frame = video.read()
