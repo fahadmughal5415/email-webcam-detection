@@ -6,7 +6,7 @@ This project captures an image using a webcam and sends it via email when a new 
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/fahadmughal5415/email-webcam-detection
     cd email-webcam-detection
     ```
 
